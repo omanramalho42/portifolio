@@ -24,4 +24,4 @@ const NotFound = () => {
 }
 
 export default NotFound
-export { getInitialProps } from '../components/Chakra'
+export { getInitialProps } from '../components/chakra'

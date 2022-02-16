@@ -7,7 +7,7 @@ import {
     Divider
 } from '@chakra-ui/react'
 
-import { WorkGridItem } from '../components/gtid-item'
+import { WorkGridItem } from '../components/grid-item'
 import Section from '../components/section'
 import Article from '../components/layouts/article'
 
