@@ -104,4 +104,4 @@ const Posts = () => (
 )
 
 export default Posts
-export { getServerSideProps } from '../components/Chakra'
+export { getServerSideProps } from '../components/chakra'
