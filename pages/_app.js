@@ -1,7 +1,7 @@
 import React from "react"
 import { ChakraProvider } from '@chakra-ui/react'
 import { AnimatePresence } from "framer-motion"
-import Layout from '../components/Layouts/layout'
+import Layout from '../components/layouts/layout'
 
 const App = ({ Component, pageProps, router}) => {
     return (
