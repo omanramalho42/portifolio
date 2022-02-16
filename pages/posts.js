@@ -3,11 +3,9 @@ import {
   Heading, 
   SimpleGrid 
 } from '@chakra-ui/react'
-import dynamic from 'next/dynamic';
-// import Layout from '../components/layouts/Article'
-const Layout = dynamic(() => import("../components/layouts/Article"));
-import Section from '../components/Section'
-import { GridItem } from '../components/GridItem'
+import Layout from '../components/layouts/article'
+import Section from '../components/section'
+import { GridItem } from '../components/grid-item'
 
 import thumbReact from '../public/images/react.png'
 import thumbReactNative from '../public/images/reactnative.jpg'
