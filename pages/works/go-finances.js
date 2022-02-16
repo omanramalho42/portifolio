@@ -11,8 +11,8 @@ import {
   } from '@chakra-ui/react'
   import Layout from '../../components/layouts/Article'
   import { ExternalLinkIcon } from '@chakra-ui/icons'
-  import { Title, WorkImage, Meta } from '../../components/Work'
-  import P from '../../components/Paragraph'
+  import { Title, WorkImage, Meta } from '../../components/work'
+  import P from '../../components/paragraph'
 
   const Work = () => (
     <Layout title="go-finances">
